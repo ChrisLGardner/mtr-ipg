@@ -1,5 +1,6 @@
 +++
 date = '2025-03-24T22:53:51Z'
+slug = 'mtr' 
 title = 'Magic Tournament Rules Addendum'
 +++
 
