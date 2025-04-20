@@ -1,6 +1,8 @@
 +++
 date = '2025-03-24T22:54:13Z'
 title = 'Tournament Organiser Guide'
+url = 'to'
+menus = 'main'
 +++
 
 ## Introduction
