@@ -34,7 +34,7 @@ jobs:
     env:
       HUGO_VERSION: 0.145.0
       HUGO_ENVIRONMENT: production
-      TZ: America/Los_Angeles
+      TZ: Europe/London
     steps:
       - name: Install Hugo CLI
         run: |
@@ -63,6 +63,7 @@ jobs:
             hugo-
       - name: Build with Hugo
         run: |
+          echo "${{ steps.pages.outputs.base_url }}/"
           hugo \
             --gc \
             --minify \
