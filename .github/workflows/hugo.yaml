@@ -63,11 +63,10 @@ jobs:
             hugo-
       - name: Build with Hugo
         run: |
-          echo "${{ steps.pages.outputs.base_url }}/"
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/" \
+            --baseURL "https://chrislgardner.dev/mtr-ipg/" \
             --cacheDir "${{ runner.temp }}/hugo_cache"
       - name: Cache Save
         id: cache-save
