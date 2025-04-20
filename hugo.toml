@@ -1,7 +1,7 @@
-baseURL = ''
-languageCode = 'en-GB'
-title = 'cEDH UK MTR/IPG'
-theme = 'hyde'
+baseURL = "https://chrislgardner.dev/mtr-ipg/"
+languageCode = "en-GB"
+title = "cEDH UK MTR/IPG"
+theme = "hyde"
 
 [menus]
   main = [{name = "GitHub", url= "https://github.com/cedh-uk/mtr-ipg"}]
