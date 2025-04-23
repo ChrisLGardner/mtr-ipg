@@ -1,7 +1,7 @@
 <aside class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
-      {{ $image := resources.Get "images/logo.png" }}
+      {{ $image := resources.Get "images/small_logo.png" }}
       {{ $image := $image.Resize "200x134" }}
       <a href="{{ .Site.BaseURL }}"><img src="{{ $image.relPermalink }}" alt="cEDH UK Logo"/></a>
     </div>
