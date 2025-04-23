@@ -2,7 +2,7 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       {{ $image := resources.Get "images/small_logo.png" }}
-      <a href="{{ .Site.BaseURL }}"><img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="cEDH UK Logo"></a>
+      <a href="{{ .Site.BaseURL }}"><img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="cEDH UK Logo" class="sidebar-image"></a>
     </div>
 
     <nav>
