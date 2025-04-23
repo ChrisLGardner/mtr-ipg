@@ -1,13 +1,13 @@
 +++
-date = '2025-03-24T22:53:51Z'
-url = 'mtr' 
+date = '2025-04-23T19:00:51Z'
 title = 'Magic Tournament Rules Addendum'
 menus = 'main'
+url = 'mtr'
 +++
 
-##  Introduction
+## Introduction
 
-The following document acts as an extension to the existing official [Magic Tournament Rules](https://blogs.magicjudges.org/rules/mtr/) (MTR) for use in Competitive Rules Enforcement Level commander events (commonly refered to as cEDH) in the UK.
+The following document acts as an extension to the existing official [Magic Tournament Rules](https://blogs.magicjudges.org/rules/mtr/) (MTR) for use in Competitive Rules Enforcement Level commander events (commonly referred to as cEDH) in the UK.
 
 This will address smaller local events through to larger events such as qualifiers & multi day events. By having this document, events throughout the country will be consistent and TOs (Tournament Organisers) will have a central reference point to aid event set-up. Any deviations from these documents should be kept to a minimum and specifically stated on the event page along with an announcement before round 1 begins to ensure players are aware of any changes.
 
@@ -26,7 +26,7 @@ In addition to rules defined in [MTR - 5.4 - Unsporting Conduct](https://blogs.m
 
 Below are the amendments made to the official [MTR](https://blogs.magicjudges.org/rules/mtr/) to adapt it for cEDH. Each is named to reflect which section of the MTR they modify and link to the original version.
 
-### Tournament Mechanics
+### MTR 2 - Tournament Mechanics
 
 #### 2.1 Match Structure
 
@@ -66,7 +66,7 @@ Optionally a Tournament Organiser can opt to have a match end with additional tu
 
 During a multiplayer game, players are encouraged to concede while they have priority, and the stack is empty on their own turn. A player who needs to concede at any other time will be dropped from the event and must talk to a tournament organizer in order to re-enter. In this case, a judge will facilitate any mandatory detrimental triggers of the conceded player until the stack is empty, any non-detrimental triggers will be missed. In the event this happens in response to combat, the turn will be facilitated until the end of combat, with the conceded player declaring no blockers to any creatures that are attacking them.
 
-### Tournament Rules
+### MTR 3 - Tournament Rules
 
 #### 3.1 Tiebreakers
 
@@ -78,11 +78,9 @@ Any player receiving a bye will have 3 opponents added to their opponent history
 
 [Original](https://blogs.magicjudges.org/rules/mtr3-13/)
 
-Hidden information is a resource to be shared at the controlling player's own discretion and may be shown to as many players as they choose. If a player is shown the face or faces of cards in a hidden zone, they may not display those cards to anyone at the table who does not have permission to see them. Players are, however, free to communicate this type of information both verbally or through written notes.
-
 If a player accidentally gains information about another players hand, such as through that player not sufficiently hiding their hand from the player next to them, then they are free to communicate that information to the other players should they wish to.
 
-### Communication
+### MTR 4 - Communication
 
 #### 4.1 Player Communication
 
@@ -92,7 +90,7 @@ The active player may request the table to stop excessively influencing game act
 
 If players are talking excessively while holding priority then this should be treated as Slow Play or potentially Stalling.
 
-### Tournament Violations
+### MTR 5 - Tournament Violations
 
 #### 5.4 Unsporting Conduct
 
@@ -114,26 +112,30 @@ Coercion Examples:
 
 Collusion typically occurs when a Player intentionally takes an action that is detrimental to themselves in order to benefit an Opponent. It’s not Collusion if the action is a result of a unintentional strategical error.
 
-Collusion Examples:
+Collusion examples:
 
-- Alice is presenting a win, Bob has an answer and uses it. Charlie uses their answer to stop Bob’s, in order to ensure Alice wins the Match. The Judge’s investigation determines that Charlie is friends with Alice and wants Alice to move to the single elimination portion of the Tournament, and that’s why they used their answer. Charlie is Colluding with Alice and vice-versa.
-- Alice is presenting a win, Daniel has an answer and uses it. Charlie uses their answer to stop Daniel’s, in order to ensure Alice wins the Match. The Judge’s investigation determines that Charlie is friends with Bob and wants Alice to be penalized by collusion in order to give Bob the chance to try and win against Daniel, and that’s why they used their answer. Charlie is Colluding with Bob and vice-versa.
-- Alice is presenting a win, Bob has a win on their next turn and Charlie has an answer to stop Alice and allow Bob to win the Game. In this situation Charlie could conceivably be colluding with Alice or Bob by either not performing an action or by performing an action. However it is also possible that no Collusion is happening. It will be up to the Judge’s investigation to determine if there is Collusion or not.
+- It would be Collusion if:
+  - Alice is presenting a win, Bob has an answer and uses it. Charlie uses their answer to stop Bob’s, in order to ensure Alice wins the Match. The Judge’s investigation determines that Charlie is friends with Alice and wants Alice to move to the single elimination portion of the Tournament, and that’s why they used their answer. Charlie is Colluding with Alice and vice-versa.
+  - Alice is presenting a win, Daniel has an answer and uses it. Charlie uses their answer to stop Daniel’s, in order to ensure Alice wins the Match. The Judge’s investigation determines that Charlie is friends with Bob and wants Alice to be penalized by collusion in order to give Bob the chance to try and win against Daniel, and that’s why they used their answer. Charlie is Colluding with Bob and vice-versa.
+- It would not be Collusion if:
+  - Alice is presenting a win, Bob has a win on their next turn and Charlie has an answer to stop Alice and allow Bob to win the Game. In this situation Charlie could conceivably be colluding with Alice or Bob by either not performing an action or by performing an action. However it is also possible that no Collusion is happening. It will be up to the Judge’s investigation to determine if there is Collusion or not.
 
 **Spite Play**: *Performing a detrimental action with the sole purpose of penalizing an Opponent out of Spite.*
 
 It’s not Spite Play if the action is a result of a unintentional strategical error.
 
-Spite Play Examples:
+Spite Play examples:
 
-- Alice is presenting a win that makes use of Bob’s existing permanents in order to function. Bob feels disgruntled with Alice’s previous interactions in the Game and scoops up their cards, conceding, in order to prevent Alice from winning the Game. Bob is performing a Spite Play against Alice.
-- Alice is presenting a win that makes use of Bob’s existing permanents in order to function. Bob activates their Necropotence enough times so that they lose the Game. Bob hopes that the Game ends in a Draw, and as such this is not a Spite Play.
+- It would be Spite Play if:
+  - Alice is presenting a win that makes use of Bob’s existing permanents in order to function. Bob feels disgruntled with Alice’s previous interactions in the Game and scoops up their cards, conceding, in order to prevent Alice from winning the Game. Bob is performing a Spite Play against Alice.
+- It would not be Spite Play if:
+  - Alice is presenting a win that makes use of Bob’s existing permanents in order to function. Bob activates their Necropotence enough times so that they lose the Game. Bob hopes that the Game ends in a Draw, and as such this is not a Spite Play.
 
 In Multiplayer Tournaments, sometimes it will surface the idea that a Player is “Kingmaking” another Player. This notion of Kingmaking is only problematic if it falls under the category of Collusion or Spite Play. Otherwise, it can be a simple unintentional strategical error, and that’s not regulated by Judges.
 
 When investigating these matters, Judges need to take special attention to not reveal strategic information to Players at the table. An Opponent can potentially accuse a Player of Spite Play or Collusion in order to extract strategically relevant information from the Judge’s ruling, for example:
 
-- Player A calls a judge because Player B is casting a Pact of Negation, targetting one of their spells, while Player B only seemingly has 3 available mana in their next upkeep. A Judge comes over, sees this and asks to see Player B’s hand, noticing a Dark Ritual, then dismissing the Spite Play / Collusion claim. Player A, C and D noticed this interaction and now think that Player B must have an instant that can provide mana or a way to win at instant speed in their upkeep.
+- Player A calls a judge because Player B is casting a Pact of Negation, targeting one of their spells, while Player B only seemingly has 3 available mana in their next upkeep. A Judge comes over, sees this and asks to see Player B’s hand, noticing a Dark Ritual, then dismissing the Spite Play / Collusion claim. Player A, C and D noticed this interaction and now think that Player B must have an instant that can provide mana or a way to win at instant speed in their upkeep.
 
 The problem with this situation is that if Player B was actually doing as Spite Play, they must be penalized immediately so that the integrity of the Game is not compromised any further. However, investigating this, will leak some information, so Judges need to be careful to minimize these leaks:
 
@@ -165,7 +167,7 @@ All player’s tie breakers will be calculated the same regardless if a player r
 
 This will be subject to player attendance, but the Tournament Organiser (TO) reserves the right to adjust the following to meet venue/time constraints. Adjustments may not be available when hosting qualifiers that adopt rules from other TOs.
 
-|Players|Minimum Number of Swiss Rounds|Playoff|
+|Players|Minimum Number of Swiss Rounds|Top Cut|
 |-|-|-|
 |1-4|None (run 1 single elimination round)|None|
 |5-15|2|Top 4|
@@ -179,7 +181,7 @@ Each swiss round lasts 80 minutes. When time is called then [End-of-Match proced
 
 Optionally the TO may choose to have additional turns when time is called as detailed in [End-of-Match procedure](#24-end-of-match-procedure), this decision is down to the TO but should take into consideration venue opening times etc.
 
-### Top Cut - Playoffs
+### Top Cut
 
 Players in top cut will play in seed order with the highest seed taking the first turn.
 
@@ -210,7 +212,7 @@ There is no time limit in the single elimination portion (except exceeding venue
 
 The Finals seating will be based on the standings the players got during the Swiss portion, with the highest ranked player going first. The Semi final matches don’t affect this.
 
-It is recommended that the finals has no time limit unlike the [Top Cut](#top-cut---playoffs), even after intentional draws. Should a time limit be required, for example due to venue opening times, then TO discretion is advised to choose an appropriate time limit based on their situation.
+It is recommended that the finals has no time limit unlike the [Top Cut](#top-cut), even after intentional draws. Should a time limit be required, for example due to venue opening times, then TO discretion is advised to choose an appropriate time limit based on their situation.
 
 ## Event Software
 
@@ -240,9 +242,9 @@ We understand that most cEDH decks require a significant financial investment, o
 - The Judge Team will evaluate the cards using the same principles defined in the [MTR - 3.3 - Authorized Cards](https://blogs.magicjudges.org/rules/mtr3-3/), with the exception of the following points:
 
 - Authorized Game Cards must be regulation-sized ~~, genuine Magic cards publicly released by Wizards of the Coast~~.
-  - Ignore the strikethrough text
+  - Ignore the strike through text
 - ~~Cards that, unaltered, feature gold borders on their front or back, and~~ cards from the “Heroes of the Realm”, Theros block “Challenge Deck” series, silver bordered cards and acorn symbolled cards are not Authorized Game Cards.
-  - Ignore the strikethrough text
+  - Ignore the strike through text
 
 ## Judges
 
@@ -260,7 +262,7 @@ Remember that no ruling aside from the Head Judge’s is considered final as soo
 
 At cEDH UK events photography and video recording may take place for the purposes of promotion or gameplay capture. If you would like to be excluded from this please notify the TO prior to the event.
 
-## Change Log
+## Changelog
 
 ### 2025-04-16
 
@@ -268,7 +270,7 @@ At cEDH UK events photography and video recording may take place for the purpose
 - Updated match structure to specify a match is first to one game win, to allow game draws in both swiss and single elimination portions of an event.
 - Updated End-of-Match procedure to specify the time limit for the final players turn and add an option for TOs to use turns if they wish.
 - Updated Conceding games or matches to specify that when a player concedes at any time other than on their turn that the judge will only ensure detrimental triggers are properly handled, all other triggers will be missed and the player will declare no blockers should they concede during combat.
-- Clarified Hidden Information being sharable if a player is accidentally showing cards in their hand, such as to the player sat next to them. This is inline with the official MTR but added this to ensure it's covered here too.
+- Clarified Hidden Information being shareable if a player is accidentally showing cards in their hand, such as to the player sat next to them. This is inline with the official MTR but added this to ensure it's covered here too. Removed the section on sharing hidden information willingly with one or more players as this is now part of the official MTR.
 - Updated Player Communication to clarify that it applies for excessively trying to influence an action a player is trying to take and not for talking too much while holding priority, which should be handled as Slow Play or Stalling.
 - Removed the section on Reversing Decisions. The official MTR already covers things well enough in this area.
 - Removed the section allowing non-deterministic loops. Many scenarios encountered in cEDH that look non-deterministic are actually deterministic so this exception isn't actually needed.
