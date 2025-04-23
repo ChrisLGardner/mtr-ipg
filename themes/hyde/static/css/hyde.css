@@ -88,7 +88,6 @@ html {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  /*max-width: 50%;*/
 }
 
 
@@ -150,6 +149,11 @@ a.sidebar-nav-item:focus {
   }
 }
 
+.updated-date {
+  font-size: 16px;
+  margin-top: -.5rem;
+  margin-bottom: 1rem;
+}
 
 /*
  * Reverse layout
