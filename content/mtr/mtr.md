@@ -26,6 +26,14 @@ In addition to rules defined in [MTR - 5.4 - Unsporting Conduct](https://blogs.m
 
 Below are the amendments made to the official [MTR](https://blogs.magicjudges.org/rules/mtr/) to adapt it for cEDH. Each is named to reflect which section of the MTR they modify and link to the original version.
 
+### MTR 1 - Tournament Fundamentals
+
+#### 1.10 - Players
+
+[Original](https://blogs.magicjudges.org/rules/mtr1-10/)
+
+Players are additionally responsible for being familiar with the rules contained within this document.
+
 ### MTR 2 - Tournament Mechanics
 
 #### 2.1 Match Structure
@@ -54,7 +62,7 @@ Commanders are revealed prior to shuffling and presenting decks. A game should n
 
 [Original](https://blogs.magicjudges.org/rules/mtr2-4/)
 
-When time is called, the active player finishes their turn, and there are no additional turns. The game ends when the active player passes their turn. If a non-active player is acting in the end step of the active turn, when time is called, the subsequent turn becomes the final one. A time limit of 20 minutes should be applied to the final turn when time is called.
+When time is called, the active player finishes their turn, and there are no additional turns. The game ends when the active player passes their turn. A time limit of 20 minutes should be applied to the final turn when time is called. If this time limit is reached then nothing else can be put on the stack and the game ends immediately in a draw.
 
 In single-elimination rounds, matches may not end in a draw. If a single-elimination match would end in a draw, for example due to the time limit for the round being reached, then the player who was seeded highest at the end of Swiss will be the winner.
 
@@ -64,7 +72,7 @@ Optionally a Tournament Organiser can opt to have a match end with additional tu
 
 [Original](https://blogs.magicjudges.org/rules/mtr2-5/)
 
-During a multiplayer game, players are encouraged to concede while they have priority, and the stack is empty on their own turn. A player who needs to concede at any other time will be dropped from the event and must talk to a tournament organizer in order to re-enter. In this case, a judge will facilitate any mandatory detrimental triggers of the conceded player until the stack is empty, any non-detrimental triggers will be missed. In the event this happens in response to combat, the turn will be facilitated until the end of combat, with the conceded player declaring no blockers to any creatures that are attacking them.
+During a multiplayer game, players are encouraged to concede while they have priority, and the stack is empty on their own turn. A player who needs to concede at any other time will be dropped from the event and must talk to a tournament organizer in order to re-enter. In this case, a judge will facilitate any mandatory detrimental triggers of the conceded player until the stack is empty, any non-detrimental triggers will be missed. In the event this happens in response to combat, the turn will be facilitated by a judge until the end of combat, with the conceded player declaring no blockers to any creatures that are attacking them.
 
 ### MTR 3 - Tournament Rules
 
@@ -96,7 +104,9 @@ If players are talking excessively while holding priority then this should be tr
 
 [Original](https://blogs.magicjudges.org/rules/mtr5-4/)
 
-**Coercion**: *Coercing a Player into performing an action over threat of losing the Game to another Player.*
+##### 5.4.1 Coercion
+
+*Coercing a Player into performing an action over threat of losing the Game to another Player.*
 
 Coercion can happen in non-verbal ways too. It’s not Coercion if actions are discussed within a timing where the affect Player is not yet under pressure to perform that action. When proposing intentional draws, Players can discuss the terms and reveal hands, but they can’t attempt to coerce Players that aren’t in accordance.
 
@@ -108,7 +118,9 @@ Coercion Examples:
 - Alice is presenting a win, Bob has a win next turn and this is known information. It’s not acceptable that Charles attempts to coerce a Player into intentionally drawing: “If you don’t want to Draw, then I will cast Silence and you lose to Bob” or “You have to accept the Draw, or else we will kill you and we Draw anyway”.
 - Alice is presenting a win, Bob has a win next turn and this is known information. It is acceptable that Charles attempts to politely reason with the Players, without threatening to hand over the win to Bob: Alice, I have this Silence. Do you want to Draw? No? Ok.” - “What about you, Bob and Diane? Are you ok with making a deal to kill Alice and Draw afterwards? It would be better if Alice accepted the Draw, since Bob can break the deal and we might end up losing the Game instead of everyone drawing”.
 
-**Collusion**: *Colluding with an Opponent in order to benefit them in the Tournament.*
+##### 5.4.2 Collusion
+
+*Colluding with an Opponent in order to benefit them in the Tournament.*
 
 Collusion typically occurs when a Player intentionally takes an action that is detrimental to themselves in order to benefit an Opponent. It’s not Collusion if the action is a result of a unintentional strategical error.
 
@@ -120,7 +132,9 @@ Collusion examples:
 - It would not be Collusion if:
   - Alice is presenting a win, Bob has a win on their next turn and Charlie has an answer to stop Alice and allow Bob to win the Game. In this situation Charlie could conceivably be colluding with Alice or Bob by either not performing an action or by performing an action. However it is also possible that no Collusion is happening. It will be up to the Judge’s investigation to determine if there is Collusion or not.
 
-**Spite Play**: *Performing a detrimental action with the sole purpose of penalizing an Opponent out of Spite.*
+##### 5.4.3 Spite Play
+
+*Performing a detrimental action with the sole purpose of penalizing an Opponent out of Spite.*
 
 It’s not Spite Play if the action is a result of a unintentional strategical error.
 
@@ -145,7 +159,7 @@ The problem with this situation is that if Player B was actually doing as Spite 
 
 ### Match Points
 
-Players earn 5 match points for each match win, 0 points for each match loss, and 1 match point for each match ending in a draw. Players receiving byes are considered to have won the match. All players listed on a Match must agree to an intentional draw in order to report a Match as such.
+Players earn match points for each match win based on the number of rounds in the event + 1, with a minimum of 5 points, 0 points for each match loss, and 1 match point for each match ending in a draw. So an event with 6 rounds would have 7 points for a win, 7 rounds would have 8 points etc. Players receiving byes are considered to have won the match. All players listed on a Match must agree to an intentional draw in order to report a Match as such.
 
 ### Pairing Guidelines
 
@@ -167,7 +181,7 @@ All player’s tie breakers will be calculated the same regardless if a player r
 
 This will be subject to player attendance, but the Tournament Organiser (TO) reserves the right to adjust the following to meet venue/time constraints. Adjustments may not be available when hosting qualifiers that adopt rules from other TOs.
 
-|Players|Minimum Number of Swiss Rounds|Top Cut|
+|Players|Minimum Number of Swiss Rounds|Playoffs|
 |-|-|-|
 |1-4|None (run 1 single elimination round)|None|
 |5-15|2|Top 4|
@@ -181,7 +195,7 @@ Each swiss round lasts 80 minutes. When time is called then [End-of-Match proced
 
 Optionally the TO may choose to have additional turns when time is called as detailed in [End-of-Match procedure](#24-end-of-match-procedure), this decision is down to the TO but should take into consideration venue opening times etc.
 
-### Top Cut
+### Top Cut - Playoffs
 
 Players in top cut will play in seed order with the highest seed taking the first turn.
 
@@ -203,16 +217,16 @@ Pods for top 10 should be created as such, where players in the first and second
 
 There is no time limit in the single elimination portion (except exceeding venue time limit). In the case where players decide to Intentionally Draw a game during the single elimination portion, a 120 minutes round time limit will be enforced, starting from when the round began.
 
-- This is done to place a limit on the number of Intentional Draws that can happen and potentially extend the single elimination portion indefinitely.
-- This means that players are free to Intentionally Draw a game, but by doing so, the next game(s) they play will have to take the clock into consideration.
-- After 120 minutes, pods that had one or more Intentional Draws are only allowed to continue playing as long as there other Pods still playing, that haven’t Intentionally Draw and thus aren’t subjected to the 120 minutes limit.
-- After 120 minutes, if there are no other pods still playing, that haven’t Intentionally Draw, the Match follows the [standard End-of-Match procedure](#24-end-of-match-procedure) for the Tournament.
+This is done to prevent the potential situation of a single elimination round being extended indefinitely by repeated Intentional Draws. This means that players are free to Intentionally Draw a game, but by doing so, the next game(s) they play will have to take the clock into consideration.
+
+After 120 minutes, pods that had one or more Intentional Draws are only allowed to continue playing as long as there other Pods still playing, that haven’t Intentionally Drawn and thus aren’t subjected to the 120 minutes limit.
+After 120 minutes, if there are no other pods still playing, that haven’t Intentionally Drawn, the Match follows the [standard End-of-Match procedure](#24-end-of-match-procedure) for the Tournament.
 
 ### Top 4 - Finals
 
 The Finals seating will be based on the standings the players got during the Swiss portion, with the highest ranked player going first. The Semi final matches don’t affect this.
 
-It is recommended that the finals has no time limit unlike the [Top Cut](#top-cut), even after intentional draws. Should a time limit be required, for example due to venue opening times, then TO discretion is advised to choose an appropriate time limit based on their situation.
+It is recommended that the finals has no time limit unlike the [Top Cut](#top-cut---playoffs), even after intentional draws. Should a time limit be required, for example due to venue opening times, then TO discretion is advised to choose an appropriate time limit based on their situation.
 
 ## Event Software
 
@@ -236,7 +250,7 @@ Counterfeit cards are not allowed, the inclusion of any such cards in your deck 
 
 Players will often refer to Proxy cards when they mean Playtest cards. This document will assume that unless stated otherwise any mention by players or event staff to Proxy cards refers to Playtest cards.
 
-We understand that most cEDH decks require a significant financial investment, often prohibitive for players. Some cards are so expensive that it makes many players uncomfortable to physically play with their authentic cards. When signing up for events please check each individual page for their playtest rules.
+We understand that most cEDH decks require a significant financial investment, often prohibitive for players. Some cards are so expensive that it makes many players uncomfortable to physically play with their authentic cards. When signing up for events please check each individual page for their playtest rules, usually the requirements will include that they must be in colour and use recognisable art.
 
 - Players are responsible for making sure their playtest cards are acceptable by the Judge Team, and are expected to check the validity with them.
 - The Judge Team will evaluate the cards using the same principles defined in the [MTR - 3.3 - Authorized Cards](https://blogs.magicjudges.org/rules/mtr3-3/), with the exception of the following points:
@@ -256,13 +270,21 @@ Our Judges are here to help you! If you notice anything that seems shady, odd, o
 
 Throughout the event, Judges will perform deck checks. This process includes verifying that all cards in a player's deck match the registered decklist. Make sure the decklist you register is accurate.
 
-Remember that no ruling aside from the Head Judge’s is considered final as soon as it is given. If for whatever reason you wish to get a second opinion, please tell the ruling Judge that you would like to appeal to the Head Judge.
+In events with multiple judges, you may appeal rulings given by any judge who is not the head judge or a designated appeals judge. Please refer to [MTR 2.9](https://blogs.magicjudges.org/rules/mtr2-9/) on the appropriate way to appeal.
 
 ## Recording and Image Capture
 
 At cEDH UK events photography and video recording may take place for the purposes of promotion or gameplay capture. If you would like to be excluded from this please notify the TO prior to the event.
 
 ## Changelog
+
+### 2025-09-11
+
+- End of match procedure: Removed extra turn for non-active player taking actions in the end step when time is called.
+- End of match procedure: Clarified that when the extra time is over the game is a draw and nothing can be added to the stack or resolved on the stack.
+- Conceding or intentionally drawing: Added that should a player conceding in response to combat will have the rest of the turn facilitated by a judge until the end of combat.
+- Match points: Updated to show points for events with more than 5 rounds will be x + 1, where x is the number of rounds.
+- Playtest cards: Added general requirement for playtest cards as an example of what players may expect from an event.
 
 ### 2025-04-16
 
