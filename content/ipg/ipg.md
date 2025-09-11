@@ -58,7 +58,7 @@ In Multiplayer Tournaments, in some cases the penalty or additional remedy of Sk
 Additional actions which are considered Unsporting Conduct Minor:
 
 * A player coerces an opponent into performing an action so they get priority back, such as by saying "Tap a land for mana so I get priority back and I'll interact or we'll lose the game". This is often known as mana bullying.
-* A player uses coercive language to convince an opponent into intentionally drawing the game, such as by saying "If you don’t want to Draw, then I will cast Silence and you lose to Bob" or "You have to accept the Draw, or else we will kill you and we Draw anyway". For more examples see [Unsporting Conduct in the MTR](mtr/mtr/#54-unsporting-conduct).
+* A player uses coercive language to convince an opponent into intentionally drawing the game, such as by saying "If you don’t want to Draw, then I will cast Silence and you lose to Bob" or "You have to accept the Draw, or else we will kill you and we Draw anyway". For more examples see [Unsporting Conduct in the MTR](/mtr/#54-unsporting-conduct).
 
 ### 4.2 Major
 
@@ -66,8 +66,8 @@ Additional actions which are considered Unsporting Conduct Minor:
 
 Additional actions which are considered Unsporting Conduct Major:
 
-* Colluding with an opponent is also an Unsporting Conduct - Major infraction. Misplays or suboptimal plays are not Collusion, Collusion require intent to do so. For examples see [Unsporting Conduct in the MTR](mtr/mtr/#54-unsporting-conduct).
-* Performing a Spite Play against an opponent is also an Unsporting Conduct - Major infraction. Misplays or suboptimal plays are not Spite plays, Spite plays require intent to do so. For examples see [Unsporting Conduct in the MTR](mtr/mtr/#54-unsporting-conduct).
+* Colluding with an opponent is also an Unsporting Conduct - Major infraction. Misplays or suboptimal plays are not Collusion, Collusion require intent to do so. For examples see [Unsporting Conduct in the MTR](/mtr/#54-unsporting-conduct).
+* Performing a Spite Play against an opponent is also an Unsporting Conduct - Major infraction. Misplays or suboptimal plays are not Spite plays, Spite plays require intent to do so. For examples see [Unsporting Conduct in the MTR](/mtr/#54-unsporting-conduct).
 
 If it is determined that players in Collusion with each other were aware that what they were doing was not permitted, or they acted with malicious intent, the infraction is [Unsporting Conduct - Cheating](https://blogs.magicjudges.org/rules/ipg4-8/). All players found in Collusion will have this infraction.
 
