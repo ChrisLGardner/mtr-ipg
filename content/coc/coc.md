@@ -20,10 +20,10 @@ Inclusivity: Ensure a welcoming environment for all, regardless of background or
 ## Player Expectations
 
 Players attending events are expected to be familiar with the game’s rules and tournament procedures, as outlined in the following documents:
-Magic: The Gathering Comprehensive Rules (https://magic.wizards.com/en/rules)
-Magic: The Gathering Tournament Rules (MTR) (https://wpn.wizards.com/en/rules-documents)
-Magic Infraction Procedure Guide (IPG) (https://wpn.wizards.com/en/rules-documents)
-European cEDH MTR & IPG Multiplayer Addendums (available at https://juizes-mtg-portugal.github.io/) 
+[Magic: The Gathering Comprehensive Rules](https://magic.wizards.com/en/rules)
+[Magic: The Gathering Tournament Rules (MTR)](https://wpn.wizards.com/en/rules-documents)
+[Magic Infraction Procedure Guide (IPG)](https://wpn.wizards.com/en/rules-documents)
+[European cEDH MTR & IPG Multiplayer Addendums](https://juizes-mtg-portugal.github.io/)
 
 Players are expected to remain courteous and demonstrate good sportsmanship. While table talk is permitted, harassment, excessive pressure, badgering, or aggressive behaviour is not acceptable. You must treat all participants and staff with respect at all times.
 
