@@ -52,4 +52,4 @@ Players should call a judge (or the Tournament Organizer (TO) if no judge is ava
 
 If you experience or witness any behaviour that violates this Code of Conduct at a cEDH UK event, the best course of action is to immediately report it to a judge, TO or member of the project team so that they can handle it appropriately. In the event you are unable to report an event issue immediately, or if you experience or witness Code of Conduct violations in the cEDH UK Discord, please contact Ben Mullan or a member of the Project Team with your concerns. All reports will be handled confidentially and respectfully.
 
-You can contact Ben via the Discord or via [cEDH.UK@gmail.com](mail:cEDH.UK@gmail.com). You can contact the Project Team via Discord.
+You can contact Ben via the Discord or via [cEDH.UK@gmail.com](mailto:cEDH.UK@gmail.com). You can contact the Project Team via Discord.
