@@ -13,9 +13,11 @@ It also applies to all participants in any community spaces (such as the cEDH UK
 
 ## Core Principles
 
-Respect: Treat all participants with dignity and courtesy.
-Integrity: Play honestly and uphold the rules of the game.
-Inclusivity: Ensure a welcoming environment for all, regardless of background or identity.
+**Respect**: Treat all participants with dignity and courtesy.
+
+**Integrity**: Play honestly and uphold the rules of the game.
+
+**Inclusivity**: Ensure a welcoming environment for all, regardless of background or identity.
 
 ## Player Expectations
 
