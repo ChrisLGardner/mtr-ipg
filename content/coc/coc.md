@@ -1,5 +1,5 @@
 +++
-date = '2026-01-15T20:00:02Z'
+date = '2026-01-15T16:00:02Z'
 title = 'Code of Conduct'
 url = 'coc'
 menus = 'main'
